@@ -3,7 +3,7 @@ FeedBack:
 
 
 
-hjhjhjh jhh jhjh hjh
+A feedback analog system that contains a servo motor and a potentiometer that resembles a 2nd motor.
 
 
 
